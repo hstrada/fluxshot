@@ -4,4 +4,4 @@
 
 # run
 
-./fluxshot
+> ./fluxshot
